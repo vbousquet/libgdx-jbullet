@@ -1,12 +1,14 @@
 # libgdx-jbullet
 A fork of the Bullet physics library java port by Jezek2 to LibGdx library, to allow GWT support under Apache 2.0 license. 
 
-This is a fork of [GBullet](https://code.google.com/p/gbullet/), a GWT port of [JBullet](http://jbullet.advel.cz/) which is a port of the [Bullet Physics engine](http://bulletphysics.org/wordpress/) using the [VecMath](https://java.net/projects/vecmath) library. All these libraries are under ZLib license except Vecmath which is GPL 2. That's the reason I made this fork ; it frees you from the vecmath dependency and use the math classes from LibGdx which is under Apache License 2.0, hence allowing commercia use.
+This is a fork of [GBullet](https://code.google.com/p/gbullet/), a GWT port of [JBullet](http://jbullet.advel.cz/) which is a port of the [Bullet Physics engine](http://bulletphysics.org/wordpress/) using the [VecMath](https://java.net/projects/vecmath) library. All these libraries are under ZLib license except Vecmath which is GPL 2. That's the reason I made this fork ; it frees you from the vecmath dependency and use the math classes from LibGdx which is under Apache License 2.0, hence allowing commercial use.
 
 ## History
 
 This is the first, pre-alpha release, largely under tested, without any support, likely full of bugs and such,... 
 Think twice before using !
+
+You can see this library in action in [this published game](https://play.google.com/store/apps/details?id=org.softmotion.fpack.lite) on the Play Store.
 
 ## Why would you use this library, and why would you not ?
 
@@ -20,8 +22,6 @@ The counterparts are the following :
 - likely far slower than the native port.
 
 A side benefit of this library is that it is full java so you don't have to go through the native memory management.
-
-You can see it in action in [this published game](https://play.google.com/store/apps/details?id=org.softmotion.fpack.lite).
 
 ## Changes from the original port by Jezek2
 
