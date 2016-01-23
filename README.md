@@ -27,6 +27,10 @@ You can see it in action in [this published game](https://play.google.com/store/
 
 - Added setAngularFactor et setLinearFactor in order to enable 2D use along 3D use (see [here](https://play.google.com/store/apps/details?id=org.softmotion.fpack.lite); dice use 3D physics, Air Hockey and Passe Trappe use 2D physics). 
 
+## Usage
+
+The work is too preliminary for a jar library. Just fork this repository and include the provided src folder in your build.
+
 ##License
 
 Copyright 2015
