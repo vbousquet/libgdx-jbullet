@@ -1,0 +1,10 @@
+<module>
+    
+	<inherits name='com.google.gwt.core.Core' />
+	<inherits name='javax.Vecmath' />
+
+	<super-source path='com/super' />
+
+	<source path='com/bulletphysics' />
+
+</module>
