@@ -1,7 +1,8 @@
 <module>
     
 	<inherits name='com.google.gwt.core.Core' />
-	<inherits name='javax.Vecmath' />
+	<inherits name='com.badlogic.gdx'/>
+	<inherits name='bulletphysics'/>
 
 	<super-source path='com/super' />
 
