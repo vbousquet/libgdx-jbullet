@@ -25,13 +25,13 @@ A side benefit of this library is that it is full java so you don't have to go t
 
 ## Changes from the original port by Jezek2
 
-- Added setAngularFactor et setLinearFactor in order to enable 2D use along 3D use (see [here](https://play.google.com/store/apps/details?id=org.softmotion.fpack.lite); dice use 3D physics, Air Hockey and Passe Trappe use 2D physics). 
+- Added setAngularFactor and setLinearFactor in order to enable 2D use along 3D use (see [here](https://play.google.com/store/apps/details?id=org.softmotion.fpack.lite); dice use 3D physics, Air Hockey and Passe Trappe use 2D physics). 
 
 ## Usage
 
 The work is too preliminary for a jar library. Just fork this repository and include the provided src folder in your build.
 
-##License
+## License
 
 Copyright 2015
 
